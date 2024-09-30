@@ -13,6 +13,8 @@ This project is a solution for the Crossmint Challenge, implemented in NestJS wi
 ## Installation
 
 ```bash
+  git clone https://github.com/darozarena/crossmint-challenge.git
+  cd crossmint-challenge
   pnpm i
 ```
 
